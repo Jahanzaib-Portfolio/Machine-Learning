@@ -4,7 +4,6 @@ Welcome to my **Machine Learning** learning repository!
 
 This repository documents my journey of learning Machine Learning using **Python** and **Scikit-learn**. It contains implementations of fundamental machine learning algorithms, hands-on experiments, model comparisons, and practical examples.
 
-![Logo](Images/logos.png)
 ---
 
 ##  About This Repository
@@ -28,6 +27,7 @@ The goal of this repository is to:
 - Matplotlib
 - Jupyter Notebook
 
+![Logo](Images/logos.png)
 ---
 
 ##  Repository Structure

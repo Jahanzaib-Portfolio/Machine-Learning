@@ -3,7 +3,8 @@
 Welcome to my **Machine Learning** learning repository!
 
 This repository documents my journey of learning Machine Learning using **Python** and **Scikit-learn**. It contains implementations of fundamental machine learning algorithms, hands-on experiments, model comparisons, and practical examples.
-![Alt Text](images/logos.png)
+
+![Logo](Images/logos.png)
 ---
 
 ##  About This Repository

@@ -3,7 +3,7 @@
 Welcome to my **Machine Learning** learning repository!
 
 This repository documents my journey of learning Machine Learning using **Python** and **Scikit-learn**. It contains implementations of fundamental machine learning algorithms, hands-on experiments, model comparisons, and practical examples.
-
+![Alt Text](images/logos.png)
 ---
 
 ##  About This Repository
@@ -47,19 +47,15 @@ Machine-Learning/
 ├── 11-Bagging/
 ├── 12-AdaBoost/
 ├── 13-Gradient-Boosting/
-│
 ├── images/
 └── README.md
 ```
 
 ---
 
-## 🤝 Contributions
+##  Contributions
 
 This repository is a personal learning project. Suggestions, improvements, and feedback are always welcome.
 
----
 
-## 📄 License
 
-This repository is created for educational purposes and continuous learning.

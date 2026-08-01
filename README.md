@@ -30,33 +30,29 @@ The goal of this repository is to:
 ![Logo](Images/logos.png)
 ---
 
-##  Repository Structure
+##  Repository Contents
 
 ```text
 Machine-Learning/
 │
-├── 01-Linear-Regression/
-├── 02-Multiple-Linear-Regression/
-├── 03-Logistic-Regression/
-├── 04-KNN/
-├── 05-SVM/
-├── 06-Naive-Bayes/
-├── 07-Decision-Tree/
-├── 08-Random-Forest/
-├── 09-KMeans-Clustering/
-├── 10-DBSCAN/
-├── 11-Bagging/
-├── 12-AdaBoost/
-├── 13-Gradient-Boosting/
+├── -Linear-Regression/
+├── -Multiple-Linear-Regression/
+├── -Logistic-Regression/
+├── -KNN/
+├── -SVM/
+├── -Naive-Bayes/
+├── -Decision-Tree/
+├── -Random-Forest/
+├── -KMeans-Clustering/
+├── -DBSCAN/
+├── -Bagging/
+├── -AdaBoost/
+├── -Gradient-Boosting/
 ├── images/
 └── README.md
 ```
 
----
 
-##  Contributions
-
-This repository is a personal learning project. Suggestions, improvements, and feedback are always welcome.
 
 
 
